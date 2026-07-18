@@ -1,0 +1,13 @@
+{
+    "version":  "1.5.1-test",
+    "release_date":  "2026-07-14",
+    "mandatory":  false,
+    "download_url":  "https://updates.example.invalid/theraflow/test_release_1.5.1/TheraFlow_Update_1.5.1-test.zip",
+    "sha256":  "a4c9e57123d0cc61c67018235b2db228f70b4fb480f713ac3923d53403cf44a6",
+    "min_supported_version":  "1.5.0",
+    "release_notes":  [
+                          "Sigurni test automatskog updatea na verziju 1.5.1-test.",
+                          "Vidljiva potvrda u footeru: v1.5.1 TEST UPDATE.",
+                          "Nema promjena klinicke logike ni podataka."
+                      ]
+}
