@@ -1,13 +1,15 @@
 {
-    "version":  "1.5.1-test",
-    "release_date":  "2026-07-14",
-    "mandatory":  false,
-    "download_url":  "https://updates.example.invalid/theraflow/test_release_1.5.1/TheraFlow_Update_1.5.1-test.zip",
-    "sha256":  "a4c9e57123d0cc61c67018235b2db228f70b4fb480f713ac3923d53403cf44a6",
-    "min_supported_version":  "1.5.0",
-    "release_notes":  [
-                          "Sigurni test automatskog updatea na verziju 1.5.1-test.",
-                          "Vidljiva potvrda u footeru: v1.5.1 TEST UPDATE.",
-                          "Nema promjena klinicke logike ni podataka."
-                      ]
+  "version": "1.5.2",
+  "release_date": "2026-07-18",
+  "mandatory": false,
+  "download_url": "https://github.com/riaddzakmic00-max/TheraFlow/releases/download/v1.5.2/TheraFlow_Update_1.5.2.zip",
+  "sha256": "986dc34a2a161ae9d37f3b7258ef7e3fa9a34f5341cb8017bcd357d8159a5c46",
+  "min_supported_version": "1.5.1",
+  "release_notes": [
+    "TheraFlow 1.5.2 produkcijsko izdanje.",
+    "Individualni terapijski protokol povezan je sa centralnom terapijskom logikom.",
+    "Karton pacijenta sadrži zaseban Protokol tab i pregledniji klinički prikaz.",
+    "Uključene su ispravke Adalimumab/Hyrimoz grupisanja, zaduženja i intervala terapije.",
+    "Uključene su sigurnosne i instalacijske ispravke automatskog updatera i embedded PostgreSQL runtimea."
+  ]
 }
